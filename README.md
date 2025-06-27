@@ -1,4 +1,4 @@
-A portfolio for my Data Science projects.  Featuring Python, R, data analysis, data processing and statistics
+My name is Todd Estep.  This is a professional portfolio for my Data Science projects.  Featuring Python, R, data analysis, data processing and statistics
 
 Data Analysis Final Project - A presentation of minimum wage and cost of living by US counties.  It features a variety of graphs in a presentation, along with the code used to create the graphs.
 
